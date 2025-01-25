@@ -1,4 +1,7 @@
-### Hi there 👋
+### About Me
+
+- Personal Website: https://ckrailo.com
+- Connect on LinkedIn: https://www.linkedin.com/in/ckrailo/
 
 <!--
 **ckrailo/ckrailo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
